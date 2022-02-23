@@ -1,2 +1,0 @@
-# ParsP
-Parcer
